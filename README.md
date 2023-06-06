@@ -1,4 +1,12 @@
-# reading-notes
+## reading-notes
+
+# Full Stack Boot Camp
+
+1. Brief intro
+2. About
+3. Growth Mindset
+4. New pages
+
 Hi I'm Darren. I am a student on the _**Tech Eduators Full Stack Development course.**_ I am passionate about:
   
  1. Science Fiction
