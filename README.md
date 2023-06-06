@@ -11,9 +11,9 @@
 
 Hi I'm Darren. I am a student on the _**Tech Eduators Full Stack Development course.**_ I am passionate about:
   
- 1. Science Fiction
- 2. Smart Home Tech
- 3. Movies
+- Science Fiction
+- Smart Home Tech
+- Movies
 
 ## About
 
