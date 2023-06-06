@@ -5,7 +5,7 @@
 1. Brief intro
 2. About
 3. Growth Mindset
-4. New pages
+4. Find me on Github!
 
 ## Intro
 
