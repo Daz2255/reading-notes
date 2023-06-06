@@ -25,7 +25,7 @@ This markdown file has been made to demonstrate deployment with GitHub Pages and
 
 A **Growth Mindset*** is believing that success is dependent on time and effort. If you have a growth mindset you feel skills and intelligence can be improved with effort and persistence. You embrace challenges, persist through obstacles, learn from criticism and seek out inspiration in others’ success.
 
-### _**My Reminders**_  
+### *My Reminders*  
 
 >- *Celebrate Growth*
 >- *Mistakes are part of learning*
