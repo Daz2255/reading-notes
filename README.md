@@ -7,11 +7,17 @@
 3. Growth Mindset
 4. New pages
 
+ # Intro
+
 Hi I'm Darren. I am a student on the _**Tech Eduators Full Stack Development course.**_ I am passionate about:
   
  1. Science Fiction
  2. Smart Home Tech
  3. Movies
+
+# About
+
+This markdown file has been made to demonstrate deployment with GitHub Pages and how to write markdown.
 
 # Growth Mindset
 
