@@ -15,5 +15,5 @@ A **Growth Mindset*** is believing that success is dependent on time and effort.
 
 ***
 
-You can find my Github profile [Here](
+You can find my Github profile [Here](https://github.com/Daz2255)
 
